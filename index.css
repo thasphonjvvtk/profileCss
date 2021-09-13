@@ -1,0 +1,71 @@
+/* CSS files --> index.html */
+/* (1) Tag Selector */
+body{
+    background-color: #5E454B;   /* Color Palette https://colorhunt.co/ */
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(0, 247, 255);
+    background-color: #5E454B;
+}
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    color: #5E454B;
+    background-color: #F7D59C;
+}
+h4{
+    text-align: center;
+    font-family: Aclonica;
+    font-weight: normal;
+    color: #5E454B;
+}
+table{
+    width: 100%;
+    text-align: center;
+    background-color: #F7D59C;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+ 
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: center;
+}
+.p-Name{
+    text-decoration: underline;
+    font-family: cursive;
+    color: #ff003c;
+}
+.name{
+    font-family: cursive;
+    color: #ff003c;
+}
+.p-Footer{
+    text-align: center;
+}
+ 
+/* (3) Id Selector */       
+#th-Details{
+    text-align: center;
+}
+ 
+/* div */
+.top-container{
+    background-color: #F7D59C;
+}
+.table-menu td:hover{
+    background-color: rgb(0, 247, 255);
+}
+.table-content h2{
+    background-color: #5E454B;
+    color: rgba(46, 201, 212, 0.678);
+}
+.table-content img:hover{
+    background-color: rgb(0, 247, 255);
+}
