@@ -1,0 +1,36 @@
+/* CSS files --> abilities.html */
+body{
+    background-color: #5E454B;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #F7D59C;
+} 
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #F7D59C;
+    color: rgb(0, 247, 255);
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+    background-color: #F7D59C;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+    background-color: #F7D59C;
+}
+h2{ 
+    text-align: center;
+    background-color: #F7D59C;
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #CEE5D0;
+}
